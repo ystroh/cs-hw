@@ -1,0 +1,8 @@
+Z:\יד תשפו\סטרו יהודית\c#\threds\threds\threds\bin\Debug\threds.exe.config
+Z:\יד תשפו\סטרו יהודית\c#\threds\threds\threds\bin\Debug\threds.exe
+Z:\יד תשפו\סטרו יהודית\c#\threds\threds\threds\bin\Debug\threds.pdb
+Z:\יד תשפו\סטרו יהודית\c#\threds\threds\threds\obj\Debug\threds.csproj.AssemblyReference.cache
+Z:\יד תשפו\סטרו יהודית\c#\threds\threds\threds\obj\Debug\threds.csproj.CoreCompileInputs.cache
+Z:\יד תשפו\סטרו יהודית\c#\threds\threds\threds\obj\Debug\threds.exe
+Z:\יד תשפו\סטרו יהודית\c#\threds\threds\threds\obj\Debug\threds.pdb
+Z:\יד תשפו\סטרו יהודית\c#\threds\threds\threds\obj\Debug\threds.exe.config
